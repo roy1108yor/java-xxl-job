@@ -2,6 +2,10 @@
 .1024*
 !.1024
 
+.classpath
+.settings
+.project
+
 # Language-specific files
 *.class
 *.jar
